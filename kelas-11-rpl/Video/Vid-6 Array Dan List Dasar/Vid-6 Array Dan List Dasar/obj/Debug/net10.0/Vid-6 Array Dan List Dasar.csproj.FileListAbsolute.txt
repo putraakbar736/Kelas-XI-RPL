@@ -1,0 +1,14 @@
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\bin\Debug\net10.0\Vid-6 Array Dan List Dasar.exe
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\bin\Debug\net10.0\Vid-6 Array Dan List Dasar.deps.json
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\bin\Debug\net10.0\Vid-6 Array Dan List Dasar.runtimeconfig.json
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\bin\Debug\net10.0\Vid-6 Array Dan List Dasar.dll
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\bin\Debug\net10.0\Vid-6 Array Dan List Dasar.pdb
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.AssemblyInfoInputs.cache
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.AssemblyInfo.cs
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.csproj.CoreCompileInputs.cache
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.dll
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\refint\Vid-6 Array Dan List Dasar.dll
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.pdb
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\Vid-6 Array Dan List Dasar.genruntimeconfig.cache
+D:\Video\Vid-6 Array Dan List Dasar\Vid-6 Array Dan List Dasar\obj\Debug\net10.0\ref\Vid-6 Array Dan List Dasar.dll

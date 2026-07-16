@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Video\\Vid-3 Variable,Tipe Data, Operasi Sederhana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77BD4FD2-14F3-4B4E-B419-1ADCD47FD416}|Vid-3 Variable,Tipe Data, Operasi Sederhana\\Vid-3 Variable,Tipe Data, Operasi Sederhana.csproj|d:\\video\\vid-3 variable,tipe data, operasi sederhana\\vid-3 variable,tipe data, operasi sederhana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BD4FD2-14F3-4B4E-B419-1ADCD47FD416}|Vid-3 Variable,Tipe Data, Operasi Sederhana\\Vid-3 Variable,Tipe Data, Operasi Sederhana.csproj|solutionrelative:vid-3 variable,tipe data, operasi sederhana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Video\\Vid-3 Variable,Tipe Data, Operasi Sederhana\\Vid-3 Variable,Tipe Data, Operasi Sederhana\\Program.cs",
+              "RelativeDocumentMoniker": "Vid-3 Variable,Tipe Data, Operasi Sederhana\\Program.cs",
+              "ToolTip": "D:\\Video\\Vid-3 Variable,Tipe Data, Operasi Sederhana\\Vid-3 Variable,Tipe Data, Operasi Sederhana\\Program.cs",
+              "RelativeToolTip": "Vid-3 Variable,Tipe Data, Operasi Sederhana\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:13:07.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

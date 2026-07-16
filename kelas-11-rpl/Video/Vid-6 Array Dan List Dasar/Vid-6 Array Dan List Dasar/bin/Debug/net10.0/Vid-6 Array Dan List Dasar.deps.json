@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Vid-6 Array Dan List Dasar/1.0.0": {
+        "runtime": {
+          "Vid-6 Array Dan List Dasar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vid-6 Array Dan List Dasar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

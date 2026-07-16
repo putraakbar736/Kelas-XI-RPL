@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Vid-3 Variable,Tipe Data, Operasi Sederhana/1.0.0": {
+        "runtime": {
+          "Vid-3 Variable,Tipe Data, Operasi Sederhana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vid-3 Variable,Tipe Data, Operasi Sederhana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

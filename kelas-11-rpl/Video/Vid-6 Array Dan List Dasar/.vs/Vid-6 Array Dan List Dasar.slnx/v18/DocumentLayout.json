@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Video\\Vid-6 Array Dan List Dasar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B72DE8F-6FA5-41FD-A617-EBB8F09E0306}|Vid-6 Array Dan List Dasar\\Vid-6 Array Dan List Dasar.csproj|d:\\video\\vid-6 array dan list dasar\\vid-6 array dan list dasar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B72DE8F-6FA5-41FD-A617-EBB8F09E0306}|Vid-6 Array Dan List Dasar\\Vid-6 Array Dan List Dasar.csproj|solutionrelative:vid-6 array dan list dasar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Video\\Vid-6 Array Dan List Dasar\\Vid-6 Array Dan List Dasar\\Program.cs",
+              "RelativeDocumentMoniker": "Vid-6 Array Dan List Dasar\\Program.cs",
+              "ToolTip": "D:\\Video\\Vid-6 Array Dan List Dasar\\Vid-6 Array Dan List Dasar\\Program.cs",
+              "RelativeToolTip": "Vid-6 Array Dan List Dasar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:18:00.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

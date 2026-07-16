@@ -1,0 +1,14 @@
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\bin\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.exe
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\bin\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.deps.json
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\bin\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.runtimeconfig.json
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\bin\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.dll
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\bin\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.pdb
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.AssemblyInfoInputs.cache
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.AssemblyInfo.cs
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.csproj.CoreCompileInputs.cache
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.dll
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\refint\Vid-3 Variable,Tipe Data, Operasi Sederhana.dll
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.pdb
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\Vid-3 Variable,Tipe Data, Operasi Sederhana.genruntimeconfig.cache
+D:\Video\Vid-3 Variable,Tipe Data, Operasi Sederhana\Vid-3 Variable,Tipe Data, Operasi Sederhana\obj\Debug\net10.0\ref\Vid-3 Variable,Tipe Data, Operasi Sederhana.dll
